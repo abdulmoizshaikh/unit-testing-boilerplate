@@ -1,6 +1,7 @@
 # express-mongo
 
 This is a boilerplate project using the following technologies:
+
 - [Express](http://expressjs.com/) for RESTful API
 - [MongoDB](https://www.mongodb.com/) for database
 
@@ -11,13 +12,12 @@ This is a boilerplate project using the following technologies:
 ## Running
 
 Install Dependencies
-```npm install```
+`npm install`
 
 Start Server
-```npm start```
+`npm start`
 
 Run Tests
-```npm run test```
+`npm run test`
 
 Visit [localhost:5000/notes](http://localhost:5000/notes)
-# unit-testing-boilerplate
