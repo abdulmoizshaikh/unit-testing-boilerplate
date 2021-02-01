@@ -1,4 +1,4 @@
-# express-mongo
+# unit-testing-boilerplate
 
 This is a boilerplate project using the following technologies:
 
